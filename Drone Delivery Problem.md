@@ -14,3 +14,6 @@ Drone Delivery Problem is a Stochastic Multi-hospital Allocation and Recharging 
 * We approximate the required time and gained energy during charging batteries with a three-threshold piecewise-linear function.
 * We assume a constant charge decrement over the flight time.
 * The hub has sufficient fast and slow chargers to accommodate all drones without resource bottlenecks.
+
+#### Reference Paper (currently under peer review):
+https://www.researchgate.net/publication/396815781_Dynamic_Recharging_and_Dispatch_Policies_in_Last_mile_Medical_Drone_Delivery
